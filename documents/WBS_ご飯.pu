@@ -1,0 +1,18 @@
+@startwbs ご飯を炊く
+title
+ご飯を炊くwbs
+
+endtitle
+* ご飯を炊く
+**[#SkyBlue] 下準備
+***[#Yellow] 米を計量する
+***[#Yellow] 米を洗う
+**[#SkyBlue] 炊飯
+***[#Yellow] 洗った米を炊飯器に入れる
+***[#Yellow] 適量の水を加える
+***[#Yellow] 炊飯器の蓋を閉め、炊飯開始のボタンを押す
+**[#SkyBlue] 仕上げ
+***[#Yellow] 炊きあがったご飯を盛り付ける
+
+
+@endwbs
