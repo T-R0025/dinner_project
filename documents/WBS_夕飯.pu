@@ -1,0 +1,14 @@
+@startwbs 豪華な夕飯
+title
+夕飯作成wbs
+
+endtitle
+* 豪華な夕飯を作る
+**[#SkyBlue] 材料を買う
+**[#SkyBlue] ピーマンの肉詰めを作る
+**[#SkyBlue] ほうれんそうのお浸しを作る
+**[#SkyBlue] ご飯を炊く
+**[#SkyBlue] 卵とわかめの中華スープを作る
+**[#SkyBlue] 食べる準備をする
+
+@endwbs
