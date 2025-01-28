@@ -1,0 +1,21 @@
+@startwbs 副菜を作る
+title 
+副菜を作るwbs
+
+endtitle
+* ほうれんそうのお浸しを作る
+**[#SkyBlue] 下準備
+***[#Yellow] ほうれん草を洗う
+***[#Yellow] 茎の部分を切り落とす
+**[#SkyBlue] 調理
+***[#Yellow] お湯を沸かす
+***[#Yellow] ほうれん草をゆでる
+***[#Yellow] 茹で上がったほうれん草を冷水に浸す
+***[#Yellow] ほうれん草を適切な長さに切る
+***[#Yellow] ボウルにほうれん草、醤油を入れ混ぜる
+**[#SkyBlue] 仕上げ
+***[#Yellow] 皿に盛り付ける
+***[#Yellow] かつお節をふりかける
+
+
+@endwbs
